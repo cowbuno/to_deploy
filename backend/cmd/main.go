@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 	AI "smart-beyim/internal/AI"
-	"smart-beyim/internal/config"
+	config "smart-beyim/internal/config"
 	"smart-beyim/internal/handlers"
 	"smart-beyim/internal/repo"
 	"smart-beyim/internal/service"
